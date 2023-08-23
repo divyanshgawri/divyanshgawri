@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyanshgawri
 - 👀 I’m interested in Ai and ML
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Software development
 - 📫 How to reach me +91-7988947904
 - @Coder_bhaiya_py
 
