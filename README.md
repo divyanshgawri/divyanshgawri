@@ -172,22 +172,18 @@ Competed and placed in the top 10 at a national-level hackathon organized by IEE
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divyanshgawri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshgawri&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divyanshgawri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshgawri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshgawri&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=divyanshgawri&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshgawri&theme=tokyo-night&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=divyanshgawri&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
-
 ---
 
 ### 🎓 Education & Certifications
