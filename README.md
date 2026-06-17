@@ -36,7 +36,7 @@ I'm a Data Analyst building production data pipelines, AI tools, and RAG-based a
 <tr>
 <td width="50%" valign="top">
 
-** Junior Data Analyst Intern**
+**Junior Data Analyst Intern**
 *MSG Transport — Technology Team*
 `Nov 2025 – Apr 2026` · Remote (Perth, Australia)
 
@@ -45,7 +45,7 @@ I'm a Data Analyst building production data pipelines, AI tools, and RAG-based a
 - Built a Python Electronic Work Diary (EWD) app that cut driver reporting time by **60%** (~45 min/day), feeding Power BI dashboards
 
 </td>
-** Data Curation Trainee**
+**Data Curation Trainee**
 *NIELIT Ropar — India Census and Socio-Economic Analytics*
 `Jun 2026 – Jul 2026` · Ropar, Punjab, India
 
@@ -55,7 +55,7 @@ I'm a Data Analyst building production data pipelines, AI tools, and RAG-based a
 
 <td width="50%" valign="top">
 
-** Founder & ML Engineer**
+**Founder & ML Engineer**
 *Jobstir Tech — AI Recruitment Platform*
 `Jul 2025 – Nov 2025` · Remote, India
 
