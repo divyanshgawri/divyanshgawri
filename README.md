@@ -75,7 +75,7 @@ I'm a Data Analyst building production data pipelines, AI tools, and RAG-based a
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ [Automated EDA Pipeline](https://github.com/divyanshgawri)
+#### ⚡ [Automated EDA Pipeline](https://github.com/divyanshgawri/Analytics)
 `Python` `Pandas` `LangChain` `Ollama` `Streamlit`
 
 Fully autonomous tool that ingests raw CSV/Excel data and auto-generates statistical summaries, visualizations, and plain-English insights.
@@ -86,7 +86,7 @@ Fully autonomous tool that ingests raw CSV/Excel data and auto-generates statist
 </td>
 <td width="50%" valign="top">
 
-#### 📊 [Newsfeed Engagement Analytics](https://github.com/divyanshgawri)
+#### 📊 [Newsfeed Engagement Analytics](https://tinyurl.com/3nn3269w)
 `Tableau` `SQL` `Excel`
 
 Dashboard tracking monthly likes and comments across post types to optimize content strategy.
@@ -99,7 +99,7 @@ Dashboard tracking monthly likes and comments across post types to optimize cont
 <tr>
 <td width="50%" valign="top">
 
-#### 🛒 [E-Commerce Product Classifier](https://github.com/divyanshgawri)
+#### 🛒 [E-Commerce Product Classifier](https://github.com/divyanshgawri/E-commerce-Product-Description-Analysis)
 `Python` `Scikit-Learn` `SpaCy` `Pandas`
 
 NLP classification model trained on **27,000 product descriptions**.
