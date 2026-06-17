@@ -23,7 +23,7 @@
 
 I'm a Data Analyst building production data pipelines, AI tools, and RAG-based applications in Python and SQL. My work spans compliance reporting, recruitment automation, and analytics workflows — with measurable outcomes like **100% data integrity**, **50% faster audit prep**, and **sub-24-hour hiring turnaround**.
 
--  Currently working as a **Junior Data Analyst Intern** at MSG Transport, building real-time fleet compliance pipelines
+-  Worked as **Junior Data Analyst Intern** at MSG Transport, building real-time fleet compliance pipelines
 -  Previously founded **Jobstir Tech**, an AI recruitment platform with a fine-tuned LLM + RAG stack
 -  Deep into LangChain, FAISS, and building autonomous data analysis tools
 -  Reach me at **dishugawri@gmail.com**
@@ -31,6 +31,13 @@ I'm a Data Analyst building production data pipelines, AI tools, and RAG-based a
 ---
 
 ### 💼 Experience
+**Data Curation Trainee**
+*NIELIT Ropar — India Census and Socio-Economic Analytics*
+`Jun 2026 – Jul 2026` · Ropar, Punjab, India
+
+- Designed a fault-tolerant ETL pipeline (Python, Pandas, openpyxl) to ingest fragmented government Census data (1961–2020), resolving inconsistent headers and missing values across **6 analytical domains**
+- Compiled **20,000+ records** into a normalized SQLite database covering socio-economic, mortality, and district-level demographic indicators, applying data governance and consistency checks
+- Built a **Flask API and real-time multi-filter dashboard** to surface patterns in categorical data, presenting findings via structured reports to the supervising team.
 
 <table>
 <tr>
@@ -45,13 +52,6 @@ I'm a Data Analyst building production data pipelines, AI tools, and RAG-based a
 - Built a Python Electronic Work Diary (EWD) app that cut driver reporting time by **60%** (~45 min/day), feeding Power BI dashboards
 
 </td>
-**Data Curation Trainee**
-*NIELIT Ropar — India Census and Socio-Economic Analytics*
-`Jun 2026 – Jul 2026` · Ropar, Punjab, India
-
-- Designed a fault-tolerant ETL pipeline (Python, Pandas, openpyxl) to ingest fragmented government Census data (1961–2020), resolving inconsistent headers and missing values across **6 analytical domains**
-- Compiled **20,000+ records** into a normalized SQLite database covering socio-economic, mortality, and district-level demographic indicators, applying data governance and consistency checks
-- Built a **Flask API and real-time multi-filter dashboard** to surface patterns in categorical data, presenting findings via structured reports to the supervising team.
 
 <td width="50%" valign="top">
 
