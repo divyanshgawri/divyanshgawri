@@ -1,16 +1,23 @@
-## Hi there 👋
+# 💫 About Me:
+Divyansh Gawri<br>Data Analyst<br>Amritsar, Punjab, India 143005 | +91 7988947904<br>LinkedIn | GitHub<br>|<br>dishugawri@gmail.com
+Data Analyst<br>| Amritsar, Punjab, India 143005<br>linkedin.com/in/divyansh-gawri | +91 7988947904 | dishugawri@gmail.com | github.com/divyanshgawri<br><br>Summary<br>Data Analyst building production data pipelines, AI tools, and RAG-based applications in Python and SQL; experience spans compliance reporting, recruitment automation, and analytics workflows with measurable outcomes such as 100% data integrity, 50% faster audit prep and sub-24-hour hiring turnaround.<br><br>Experience<br>Junior Data Analyst Intern<br>11/2025–04/2026<br>MSG Transport—Technology Team<br>Perth, Australia (Remote)<br>• Architected a real-time data pipeline syncing Python-based mobile apps with Supabase (PostgreSQL) backend, processing hundreds of driver logs daily with 100% data integrity and reducing audit preparation time by ~50%.<br>• Deployed a Flask-based administrative dashboard and a programmatic PDF reporting system, eliminating 15+ hours/week of manual logbook auditing and improving compliance reporting accuracy.<br>• Developed a Python-based Electronic Work Diary (EWD) application that reduced driver reporting time by 60% (~45 min/day), processing field data feeding into Power BI dashboards for production analytics.<br><br>Founder & Machine Learning Engineer<br>07/2025–11/2025<br>Jobstir Tech—AI Recruitment Platform<br>Remote, India<br>• Architected an AI recruitment platform that reduced average hiring time from 10+ days to under 24 hours through systematic candidate-job matching and streamlined screening workflows.<br>• Engineered a resume evaluator on a fine-tuned LLM and RAG stack (Langchain, FAISS) that retrieved 3+ sources per query to deliver instant, citation-backed feedback and bias-reduced shortlisting, replacing manual review.<br>• Grew the platform organically to 18 active users across 4 countries with no paid marketing, validated by Google Analytics.<br><br>Projects<br>Automated EDA Pipeline | Python, Pandas, LangChain, Ollama API, Streamlit<br>GitHub<br>• Ingests raw CSV and Excel data, auto-generates statistical summaries, visualizations, and plain-English insights fully autonomously, and processes datasets of up to 100,000 rows in 5.4 seconds, with processing time scaling linearly.<br>• A natural language query layer, evaluated by 21 participants (analysts, engineers, and novices), was rated 4.7/5 for clarity and 4.3/5 for correctness, reducing dependency on data teams for ad-hoc analysis.<br><br>Newsfeed Engagement & Performance Analytics | Tableau, SQL, Excel<br>Link<br>• Built a Tableau dashboard to track monthly likes and comments across different post types.<br>• Found which posts performed best, leading to a 25% increase in reach and a better content plan.<br>• Automated data updates to Tableau, saving over 8 hours of manual work every week.<br><br>E-Commerce Product Classifier | Python, Scikit-Learn, SpaCy, Pandas<br>GitHub<br>• NLP classification model trained on 27,000 product descriptions, achieving 88% accuracy on product categorization; Exploratory data analysis surfaced sales trends that informed cataloging strategy.<br><br>Technical Skills<br>Languages: Python, SQL, C++, JavaScript<br>Data Analysis & Analytics: Pandas, Tableau, Excel, A/B Testing, Statistics, SPSS, Power BI<br>Cloud & Digital: AWS (S3, EC2), BigQuery, GA4, GTM<br>Machine Learning & AI: Langchain, FAISS, Scikit-Learn, RAG, NLP, TensorFlow<br>Tools & Infrastructure: CI/CD, Git, Flask, Supabase, GitHub<br><br>Education<br>Guru Nanak Dev University<br>B.Sc. in Computational Statistics and Data Analytics<br>Amritsar, Punjab, India<br><br>Certifications<br>Machine Learning Specialization — Stanford Online, CourseraCredential<br>Data Analysis with Python — freeCodeCampCredential<br>Databases and SQL for Data Science — IBM, CourseraCredential<br>Model Context Protocol: Advanced — AnthropicCredential<br><br>Achievements<br>Top 10 Finish — CodeClash, organised by IEEE TEMS, VIT-Vellore (national-level hackathon)<br>📫 Let's Connect: LinkedIn 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dishugawrii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyansh-gawri/) 
 
-<!--
-**divyanshgawri/divyanshgawri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=divyanshgawri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=divyanshgawri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=divyanshgawri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=divyanshgawri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=divyanshgawri&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=divyanshgawri&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
