@@ -196,10 +196,10 @@ Competed and placed in the top 10 at a national-level hackathon organized by IEE
 Guru Nanak Dev University, Amritsar, Punjab, India
 
 <p>
-<img src="https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=flat-square&logo=coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/freeCodeCamp-Data_Analysis_with_Python-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM-Databases_%26_SQL_for_Data_Science-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-Model_Context_Protocol%3A_Advanced-D4A27F?style=flat-square" />
+<img src="https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=flat-square&logo=coursera&logoColor=white" /></br>
+<img src="https://img.shields.io/badge/freeCodeCamp-Data_Analysis_with_Python-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" /></p></br>
+<img src="https://img.shields.io/badge/IBM-Databases_%26_SQL_for_Data_Science-052FAD?style=flat-square&logo=ibm&logoColor=white" /></br>
+<img src="https://img.shields.io/badge/Anthropic-Model_Context_Protocol%3A_Advanced-D4A27F?style=flat-square" /></br>
 </p>
 
 ---
