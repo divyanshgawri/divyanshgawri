@@ -9,6 +9,13 @@
 </p>
 
 <p align="center">
+  <strong>Research Paper (Preprint)</strong><br>
+  Gawri, D. (2026). <i>Gawri Analytics</i>. Zenodo.
+  <a href="https://zenodo.org/records/21676610?preview_file=Gawri_Analytics.pdf">https://doi.org/10.5281/zenodo.21676610</a>
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=divyanshgawri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-blue?style=for-the-badge" />
 </p>
